@@ -47,3 +47,9 @@ void main() {
 
   print(sortedMap);
 }
+
+
+//Take the students information as input
+//Average given scores
+//tore the results in a map, where the student’s name is the key and their average score is the value.
+//Sort the map in descending order of average scores and print the final sorted result.
